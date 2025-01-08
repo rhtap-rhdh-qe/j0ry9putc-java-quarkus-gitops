@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j0ry9putc-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/j0ry9putc-java-quarkus
